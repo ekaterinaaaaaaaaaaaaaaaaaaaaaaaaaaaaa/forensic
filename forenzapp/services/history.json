@@ -1,0 +1,183 @@
+{
+  "browsers": {
+    "Chrome": {
+    "2024-11-19": {
+        "10:23:10": {
+            "url": "https://www.google.com/search?q=%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D1%84%D0%BE%D1%80%D0%B5%D0%BD%D0%B7%D0%B8%D0%BA%D0%B8&oq=%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B+%D1%84%D0%BE%D1%80%D0%B5%D0%BD%D0%B7%D0%B8%D0%BA%D0%B8&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDIKCAEQABiLAxjvBTINCAIQABiLAxiABBiiBNIBCTEyMzA5ajFqN6gCALACAA&sourceid=chrome&ie=UTF-8",
+            "title": "Google",
+            "cookies": [
+                {
+                    "name": "PREF",
+                    "value": "ID=1234567890abcdef:U=1234567890abcdef:FF=0:LD=ru:TM=1702082400:LM=1702082400:S=1234567890abcdef"
+                },
+                {
+                    "name": "NID",
+                    "value": "467=1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+                }
+            ],
+            "cache": {
+                "size": 1024,
+                "expires": "2024-12-19 10:23:10",
+                "files": [
+                    "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png",
+                    "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+                ]
+            }
+        },
+        "10:31:10": {
+            "url": "https://www.youtube.com",
+            "title": "YouTube",
+            "cookies": [
+                {
+                    "name": "VISITOR_INFO1_LIVE",
+                    "value": "1234567890abcdef1234567890abcdef"
+                },
+                {
+                    "name": "YSC",
+                    "value": "1234567890abcdef"
+                }
+            ],
+            "cache": {
+                "size": 2048,
+                "expires": "2024-12-19 10:31:10",
+                "files": [
+                    "https://www.youtube.com/yts/img/yt_1200-vflx6z23d.png",
+                    "https://www.youtube.com/s/player/12345678/player_ias.vflset/ru_RU/remote.js"
+                ]
+            }
+        },
+        "10:33:56": {
+            "url": "https://www.reddit.com",
+            "title": "Reddit",
+            "cookies": [
+                {
+                    "name": "reddit_session",
+                    "value": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+                },
+                {
+                    "name": "edgebucket",
+                    "value": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+                }
+            ],
+            "cache": {
+                "size": 512,
+                "expires": "2024-12-19 10:33:56",
+                "files": [
+                    "https://www.redditstatic.com/desktop2x/img/logo/logo.png",
+                    "https://www.redditstatic.com/desktop2x/img/logo/logo@2x.png"
+                ]
+            }
+        },
+        "10:39:05": {
+            "url": "https://ru.stackoverflow.com/users/342397/leonid",
+            "title": "Stack Overflow",
+            "cookies": [
+                {
+                    "name": "prov",
+                    "value": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+                },
+                {
+                    "name": "sgt",
+                    "value": "1234567890abcdef1"
+                }
+            ],
+            "cache": {
+                "size": 512,
+                "expires": "2024-12-19 10:39:05",
+                "files": [
+                    "https://www.stackoverflow.com/desktop2x/img/logo/logo.png",
+                    "https://www.stackoverflow.com/desktop2x/img/logo/logo@2x.png"
+                ]
+            }
+        },
+
+        "10:40:52": {
+            "url": "https://ru.stackoverflow.com/questions/1602101/%d0%9a%d0%b0%d0%ba-%d0%bf%d0%be%d0%bc%d0%b5%d1%81%d1%82%d0%b8%d1%82%d1%8c-django-%d1%84%d0%be%d1%80%d0%bc%d1%83-%d0%b2-%d0%bc%d0%be%d0%b4%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b5-%d0%be%d0%ba%d0%bd%d0%be-bootstrap",
+            "title": "Stack Overflow",
+            "cookies": [
+                {
+                    "name": "prov",
+                    "value": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+                },
+                {
+                    "name": "sgt",
+                    "value": "1234567890abcdef1"
+                }
+            ],
+            "cache": {
+                "size": 2048,
+                "expires": "2024-12-19 10:40:52",
+                "files": [
+                    "https://www.stackoverflow.com/desktop2x/img/logo/logo.png",
+                    "https://www.stackoverflow.com/desktop2x/img/logo/logo@2x.png"
+                ]
+            }
+        },
+                "10:41:06": {
+            "url": "https://stackoverflow.com/questions",
+            "title": "Stack Overflow",
+            "cookies": [
+                {
+                    "name": "prov",
+                    "value": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+                },
+                {
+                    "name": "sgt",
+                    "value": "1234567890abcdef1"
+                }
+            ],
+            "cache": {
+                "size": 2048,
+                "expires": "2024-12-19 10:41:06",
+                "files": [
+                    "https://www.stackoverflow.com/desktop2x/img/logo/logo.png",
+                    "https://www.stackoverflow.com/desktop2x/img/logo/logo@2x.png"
+                ]
+            }
+        },
+                "10:42:22": {
+            "url": "https://stackoverflow.com/questions/79268396/when-connecting-yandex-maps-in-android-studio-it-gives-an-error-that-no-impleme",
+            "title": "Stack Overflow",
+            "cookies": [
+                {
+                    "name": "prov",
+                    "value": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+                },
+                {
+                    "name": "sgt",
+                    "value": "1234567890abcdef1"
+                }
+            ],
+            "cache": {
+                "size": 2048,
+                "expires": "2024-12-19 10:42:22",
+                "files": [
+                    "https://www.stackoverflow.com/desktop2x/img/logo/logo.png",
+                    "https://www.stackoverflow.com/desktop2x/img/logo/logo@2x.png"
+                ]
+            }
+        }
+}
+},
+"Firefox": {
+      "2024-12-09": {
+        "11:00:00": {
+          "url": "https://www.reddit.com",
+          "title": "Reddit",
+          "cookies": [
+            {"name": "reddit_session", "value": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"},
+            {"name": "edgebucket", "value": "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"}
+          ],
+          "cache": {
+            "size": 512,
+            "expires": "2024-12-19 11:00:00",
+            "files": [
+              "https://www.redditstatic.com/desktop2x/img/logo/logo.png",
+              "https://www.redditstatic.com/desktop2x/img/logo/logo@2x.png"
+            ]
+          }
+        }
+}
+}
+  }
+}
